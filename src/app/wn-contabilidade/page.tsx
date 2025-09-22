@@ -489,7 +489,7 @@ export default function Home() {
                   </div>
                   
                   <blockquote className="text-white/90 leading-relaxed italic">
-                    "{story.text}"
+                    {story.text}
                   </blockquote>
                 </div>
               ))}
