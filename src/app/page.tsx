@@ -692,7 +692,7 @@ Gostaria de receber mais informações!`
                     ))}
                   </div>
                   <blockquote className="text-gray-700 leading-relaxed italic">
-                    "{testimonial.text}"
+                    {testimonial.text}
                   </blockquote>
                 </div>
               ))}
